@@ -1,0 +1,16 @@
+{
+  "name": "likes-count-api",
+  "version": "1.0.0",
+  "description": "An API to get likes count",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SnehaPod",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  }
+}
